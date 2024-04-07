@@ -12,6 +12,7 @@ int main() {
          ++k;
       }
       printf("\n");
+      printf("My name is Angel Sun\n");
    }
    return 0;
-}
+} 
